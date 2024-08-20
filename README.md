@@ -1,4 +1,7 @@
-# VRCAvatarAssetBoneRemapper
+# Just use [VRCFury](https://vrcfury.com/components/armature-link)
+I've done this before VRCFury had armature link, this is deprecated now.
+
+# ~~VRCAvatarAssetBoneRemapper~~
 *Really rolls off the tongue, doesn't it?*
 
 An Unity editor tool that allows to attach assets to a model with matching or simmilar armature (eg. clothing) without the use of bone constraints. 
